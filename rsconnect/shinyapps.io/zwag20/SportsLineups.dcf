@@ -1,0 +1,12 @@
+name: SportsLineups
+title: SportsLineups
+username:
+account: zwag20
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 449182
+bundleId: 1590180
+url: https://zwag20.shinyapps.io/SportsLineups/
+when: 1537208604.6799
+asMultiple: FALSE
+asStatic: FALSE
